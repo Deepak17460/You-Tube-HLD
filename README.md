@@ -62,4 +62,8 @@ Project Link: https://github.com/Deepak17460/You-Tube-HLD
 javascript
 Copy code
 
+As you can see the Database Information in Postgres
+
+![image](https://github.com/Deepak17460/You-Tube-HLD/assets/99780500/98e09359-60dd-4f68-9a40-cd694ef790f2)
+
 Replace placeholders (`yourusername`, `yourtwitter`, `email@example.com`, etc.) with your actual

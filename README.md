@@ -51,7 +51,7 @@ Check the console for any errors related to HLS.js or video playback.
 Contributing
 Contributions are welcome! Fork the repo and submit a pull request with your changes.
 
-To access the chat, click [here](https://chatgpt.com/c/7c4a1e6f-8ba7-4c68-923b-d5ed92862abb).
+To know the steps & set to run this application, click [here](https://chatgpt.com/c/7c4a1e6f-8ba7-4c68-923b-d5ed92862abb).
 
 License
 Distributed under the MIT License. See LICENSE for more information.

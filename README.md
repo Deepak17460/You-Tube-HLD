@@ -51,6 +51,8 @@ Check the console for any errors related to HLS.js or video playback.
 Contributing
 Contributions are welcome! Fork the repo and submit a pull request with your changes.
 
+To access the chat, click [here](https://chatgpt.com/c/7c4a1e6f-8ba7-4c68-923b-d5ed92862abb).
+
 License
 Distributed under the MIT License. See LICENSE for more information.
 
@@ -66,4 +68,4 @@ As you can see the Database Information in Postgres
 
 ![image](https://github.com/Deepak17460/You-Tube-HLD/assets/99780500/98e09359-60dd-4f68-9a40-cd694ef790f2)
 
-Replace placeholders (`yourusername`, `yourtwitter`, `email@example.com`, etc.) with your actual
+Replace placeholders (`dpcode`, `dpcode`, `dpcode27@gmail.com`, etc.) with your actual

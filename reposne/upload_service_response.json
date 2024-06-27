@@ -1,0 +1,41 @@
+multipartparams----  {
+    ServerSideEncryption: 'AES256',
+    Bucket: 'dpcode72',
+    Key: 'DevOps_Deepak (2).pdf',
+    UploadId: 'l1Jx_uRFrMKJCh_B2.FcEyx3Ei9iMYYJhr6R0lY4T5dZ3DzLIt.vjCIe1hTQQmPdSYt2WJsKzB81UVX.wTeLSzGtb4ZumX8gi5fM_W0eZezwSPZ1AJE69SNhDRgrA85j'
+  }
+  Uploading Chunk
+  data-------  {
+    ServerSideEncryption: 'AES256',
+    ETag: '"23688f8a3edcf03996e26a6a24f31604"'
+  }
+  Completing Upload
+  data-----  {
+    ServerSideEncryption: 'AES256',
+    Location: 'https://dpcode72.s3.amazonaws.com/DevOps_Deepak+%282%29.pdf',
+    Bucket: 'dpcode72',
+    Key: 'DevOps_Deepak (2).pdf',
+    ETag: '"742b9fc03d4f69831b75b73fe74ae13b-1"'
+  }
+  {
+    id: 1,
+    title: 'dpcode',
+    description: 'best',
+    author: 'deepak',
+    url: 'https://dpcode72.s3.amazonaws.com/DevOps_Deepak+%282%29.pdf'
+  }
+  body :  {
+    title: 'dpcode',
+    url: 'https://dpcode72.s3.amazonaws.com/DevOps_Deepak+%282%29.pdf'
+  }
+  Error: ENOENT: no such file or directory, open 'C:\Users\deepakkumar25\OneDrive - Nagarro\Desktop\JagatBhaiyaTrainingthigs\HHLD-YouTube\upload_service\ca.pem'
+      at Object.readFileSync (node:fs:448:20)
+      at new KafkaConfig (file:///C:/Users/deepakkumar25/OneDrive%20-%20Nagarro/Desktop/JagatBhaiyaTrainingthigs/HHLD-YouTube/upload_service/kafka/kafka.js:11:24)
+      at pushVideoForEncodingToKafka (file:///C:/Users/deepakkumar25/OneDrive%20-%20Nagarro/Desktop/JagatBhaiyaTrainingthigs/HHLD-YouTube/upload_service/controllers/kafkapublisher.controller.js:32:29)
+      at completeUpload (file:///C:/Users/deepakkumar25/OneDrive%20-%20Nagarro/Desktop/JagatBhaiyaTrainingthigs/HHLD-YouTube/upload_service/controllers/multipartupload.controller.js:110:8) {
+    errno: -4058,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: 'C:\\Users\\deepakkumar25\\OneDrive - Nagarro\\Desktop\\JagatBhaiyaTrainingthigs\\HHLD-YouTube\\upload_service\\ca.pem'
+  }
+  

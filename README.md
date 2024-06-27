@@ -55,9 +55,9 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - @yourtwitter - email@example.com
+Your Name - @dpcode - dpcode27@gmail.com
 
-Project Link: https://github.com/yourusername/nextjs-video-player
+Project Link: https://github.com/Deepak17460/You-Tube-HLD
 
 javascript
 Copy code
